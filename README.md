@@ -54,3 +54,15 @@ The analysis was conducted in R using the following libraries:
 - Other variables such as age and seizure frequency were not included in the models.
 - Results are specific to the dataset used and may not generalize to broader populations.
 
+## **References**
+1. Nevitt SJ, Tudur Smith C, Weston J, Marson AG. Lamotrigine versus carbamazepine monotherapy for epilepsy: an individual participant data review. Cochrane Database Syst Rev. 2018 Jun 28;2018(6):CD001031.
+   
+2. Wickham H, François R, Henry L, Müller K, Vaughan D (2023). dplyr: A Grammar of Data Manipulation. R package version 1.1.4, https://CRAN.R-project.org/package=dplyr.
+   
+3. Therneau T (2024). A Package for Survival Analysis in R. R package version 3.7-0, https://CRAN.R-project.org/package=survival.
+
+4. Kassambara A, Kosinski M, Biecek P (2024). survminer: Drawing Survival Curves using 'ggplot2'. R package version 0.5.0, https://CRAN.R project.org/package=survminer.
+
+5. H. Wickham. ggplot2: Elegant Graphics for Data Analysis. Springer-Verlag New York, 2016.
+   
+6. R Core Team (2024). R: A Language and Environment for Statistical Computing. R Foundation for Statistical Computing, Vienna, Austria. https://www.R-project.org/.
