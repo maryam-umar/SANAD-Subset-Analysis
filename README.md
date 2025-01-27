@@ -1,6 +1,6 @@
 # Epilepsy Analysis
 
-![Science] https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG9hbGpibWRwZWxtd3ZocWVtdTRoc3lyMHNuZXBmNzlzOTF0cDMxOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QC7UQbxq89MnL9r6AN/giphy.gif
+![] https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG9hbGpibWRwZWxtd3ZocWVtdTRoc3lyMHNuZXBmNzlzOTF0cDMxOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QC7UQbxq89MnL9r6AN/giphy.gif
 
 This repository contains a detailed statistical analysis of an epilepsy dataset, focusing on treatment outcomes and survival analysis. The goal is to evaluate the effectiveness of different treatments and their impact on seizure remission and withdrawal rates.
 
