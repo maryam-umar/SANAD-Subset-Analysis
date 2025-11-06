@@ -36,7 +36,7 @@ The dataset includes variables such as:
 4. **Competing Risks**:
    - Lamotrigine had a significantly lower cumulative incidence of withdrawal due to adverse effects (UAE), making it a preferable treatment option.
 
-## Visualizations
+## Visualisations
 
 The analysis includes:
 - Bar plots for predicted probabilities.
